@@ -692,7 +692,7 @@ nav {
   text-transform: uppercase;
 }
 
-.ag-experience-experience-details p {
+.ag-experience-experience-details li, p {
   font-family: var(--font-poppins);
   letter-spacing: 1px;
   color: var(--tex-color-secondary);

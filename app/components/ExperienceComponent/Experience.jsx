@@ -89,12 +89,12 @@ const Experience = () => {
           <div className="ag-experience-experience-details">
             <h1>Echo Web Studio</h1>
             <h2>Junior Web Developer</h2>
-            <p>
-              Front-end development, crafting viusually appealing and responsive
-              websites. <br />
-              Collaboration with senior developers and designers to meet project
-              requirements. <br />
-            </p>
+            <div>
+              <ul>
+                <li>Front-end development, crafting viusually appealing and responsive websites.</li>
+                <li>Collaboration with senior developers and designers to meet project requirements. </li>
+              </ul>
+            </div>
           </div>
           <div className="ag-experience-experience-time-period">
             [ Sep, 2023 - June, 2024 ]
@@ -105,11 +105,13 @@ const Experience = () => {
           <div className="ag-experience-experience-details">
             <h1>ThinkNEXT Technologies</h1>
             <h2>Web Developer Intern</h2>
-            <p>
-              Supported the development of responsive web interfaces.
-              Collaborated with cross-functional teams to implement design
-              mockups and meet functional requirements. <br />
-            </p>
+            <div>
+              <ul>
+                <li>Supported the development of responsive web interfaces.</li>
+                <li>Collaborated with cross-functional teams to implement design
+              mockups and meet functional requirements. </li>
+              </ul>
+            </div>
           </div>
           <div className="ag-experience-experience-time-period">
             [ Jan, 2023 - May, 2023 ]
