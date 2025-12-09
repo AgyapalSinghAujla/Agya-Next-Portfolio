@@ -51,11 +51,16 @@ const Experience = () => {
             <h1>Claret World</h1>
             <h2>Senior Web Developer</h2>
             <p>
-              Experienced web developer proficient in managing live Shopify and
-              WordPress websites, ensuring seamless performance and user
-              experience. <br />
-              Building a <span>Headless Shopify</span> solution with{" "}
-              <span>React.js and GraphQL APIs.</span>
+              <ul>
+                <li>Leading development and maintenance of live Shopify and WordPress websites, ensuring fast performance, clean UI, and seamless user experience.
+                </li>
+
+                <li>Currently building a Headless Shopify Storefront using React.js, GraphQL APIs, and modern frontend architecture for improved speed, scalability, and custom UX.
+                </li>
+
+                <li>Handling end-to-end web solutions including custom feature development, third-party app integrations, SEO improvements, and automation.
+                </li>  
+              </ul>
             </p>
           </div>
           <div className="ag-experience-experience-time-period">
@@ -68,11 +73,11 @@ const Experience = () => {
             <h1>Unimarck Pharma Ltd.</h1>
             <h2>Senior Web Developer</h2>
             <p>
-              Experienced web developer proficient in managing live Shopify and
-              WordPress websites, ensuring seamless performance and user
-              experience. <br />
-              Building a <span>Headless Shopify</span> solution with{" "}
-              <span>React.js and GraphQL APIs.</span>
+              <ul>
+                <li>Managed and optimized Shopify and WordPress websites, focusing on reliability, UX, conversions, and high performance.</li>
+                <li>Built custom Shopify features and pages, API-based integrations, and enhanced product management workflows.</li>
+                <li>Started development of a Headless Shopify solution using React.js and GraphQL APIs, contributing to improved loading speeds and personalized customer journeys.</li>  
+              </ul>
             </p>
           </div>
           <div className="ag-experience-experience-time-period">
