@@ -48,6 +48,23 @@ const Experience = () => {
       <div className="ag-experience-content">
         <div className="ag-experience-experience-card">
           <div className="ag-experience-experience-details">
+            <h1>Claret World</h1>
+            <h2>Senior Web Developer</h2>
+            <p>
+              Experienced web developer proficient in managing live Shopify and
+              WordPress websites, ensuring seamless performance and user
+              experience. <br />
+              Building a <span>Headless Shopify</span> solution with{" "}
+              <span>React.js and GraphQL APIs.</span>
+            </p>
+          </div>
+          <div className="ag-experience-experience-time-period">
+            [ Dec, 2025 - Present ]
+          </div>
+        </div>
+
+        <div className="ag-experience-experience-card">
+          <div className="ag-experience-experience-details">
             <h1>Unimarck Pharma Ltd.</h1>
             <h2>Senior Web Developer</h2>
             <p>
@@ -59,7 +76,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="ag-experience-experience-time-period">
-            [ July, 2024 - Present ]
+            [ July, 2024 - Nov, 2025 ]
           </div>
         </div>
 
