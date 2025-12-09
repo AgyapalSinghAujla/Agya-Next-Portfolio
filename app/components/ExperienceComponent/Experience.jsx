@@ -50,7 +50,7 @@ const Experience = () => {
           <div className="ag-experience-experience-details">
             <h1>Claret World</h1>
             <h2>Senior Web Developer</h2>
-            <p>
+            <div>
               <ul>
                 <li>Leading development and maintenance of live Shopify and WordPress websites, ensuring fast performance, clean UI, and seamless user experience.
                 </li>
@@ -61,7 +61,7 @@ const Experience = () => {
                 <li>Handling end-to-end web solutions including custom feature development, third-party app integrations, SEO improvements, and automation.
                 </li>  
               </ul>
-            </p>
+            </div>
           </div>
           <div className="ag-experience-experience-time-period">
             [ Dec, 2025 - Present ]
@@ -72,13 +72,13 @@ const Experience = () => {
           <div className="ag-experience-experience-details">
             <h1>Unimarck Pharma Ltd.</h1>
             <h2>Senior Web Developer</h2>
-            <p>
+            <div>
               <ul>
                 <li>Managed and optimized Shopify and WordPress websites, focusing on reliability, UX, conversions, and high performance.</li>
                 <li>Built custom Shopify features and pages, API-based integrations, and enhanced product management workflows.</li>
                 <li>Started development of a Headless Shopify solution using React.js and GraphQL APIs, contributing to improved loading speeds and personalized customer journeys.</li>  
               </ul>
-            </p>
+            </div>
           </div>
           <div className="ag-experience-experience-time-period">
             [ July, 2024 - Nov, 2025 ]
