@@ -8,6 +8,12 @@ gsap.registerPlugin(ScrollTrigger);
 
 const projectImages = [
   {
+    src: "/projects/Claret-Home.png",
+    alt: "Claret World ",
+    link: "https://claretworld.com/",
+    btnText: "Live Preview",
+  },
+  {
     src: "/projects/UniqayaLifeStyles.png",
     alt: "Uniqaya LifeStyles Project",
     link: "https://uniqaya.com/",
@@ -23,12 +29,6 @@ const projectImages = [
     src: "/projects/vixenAndFox.png",
     alt: "Vixen and Fox Project",
     link: "https://vixenandfox.com.au/",
-    btnText: "Live Preview",
-  },
-  {
-    src: "/projects/Claret-Home.png",
-    alt: "Claret World ",
-    link: "https://claretworld.com/",
     btnText: "Live Preview",
   },
 ];
